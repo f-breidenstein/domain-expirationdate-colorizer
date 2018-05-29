@@ -1,6 +1,6 @@
 # Domain Expirationdate Colorizer
 This is a Firefox Addon which changes the color of the expirationdate on the webinterface of your registrar.
-![Before and after screenshot][before-after.png]
+![Before and after screenshot](before-after.png)
 
 
 ## Already implemented domain registrars
